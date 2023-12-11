@@ -1,0 +1,20 @@
+
+{
+    "sectionHeading": "Our Skills",
+    "skills": [
+      { "id": "circles-1", "name": "Adobe Photoshop" },
+      { "id": "circles-2", "name": "Adobe Illustrator" },
+      { "id": "circles-3", "name": "After Effects" },
+      { "id": "circles-4", "name": "Adobe XD" }
+    ],
+
+    
+    "sectionHeading_meta": "10",
+    "skills_meta": [
+      { "id_meta": "9", "name_meta": "15" },
+      { "id_meta": "9", "name_meta": "17" },
+      { "id_meta": "9", "name_meta": "13" },
+      { "id_meta": "9", "name_meta": "8" }
+    ]
+  }
+  

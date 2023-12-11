@@ -1,0 +1,25 @@
+/* Add this to your Component_4.css file or in your component if you prefer inline styles */
+.box {
+    position: relative;
+  }
+  
+  .circle {
+    width: 100px;
+    height: 100px;
+    background-color: #3498db; /* Set your desired background color */
+    border-radius: 50%;
+    animation: pulse 1s ease-in-out infinite; /* Adjust the animation duration and timing function as needed */
+  }
+  
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.2);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  

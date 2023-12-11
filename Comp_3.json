@@ -1,0 +1,44 @@
+
+{
+    "sectionHeading": "What we do",
+    "boxes": [
+      {
+        "imgSrc": "images/idea.png",
+        "bgColor": "bg-red",
+        "title": "Original Ideas",
+        "content": "It is a long established fact that a reader will be distracted by the readable content",
+
+        "title_meta": "14",
+        "content_meta": "86"
+      },
+      {
+        "imgSrc": "images/controller.png",
+        "bgColor": "bg-green",
+        "title": "Great apps",
+        "content": "It is a long established fact that a reader will be distracted by the readable content",
+
+        "title_meta": "10",
+        "content_meta": "86"
+      },
+      {
+        "imgSrc": "images/monitor.png",
+        "bgColor": "bg-red",
+        "title": "High Resolution",
+        "content": "It is a long established fact that a reader will be distracted by the readable content",
+
+        "title_meta": "15",
+        "content_meta": "86"
+      },
+      {
+        "imgSrc": "images/rocket-ship.png",
+        "bgColor": "bg-green",
+        "title": "Fast Loading",
+        "content": "It is a long established fact that a reader will be distracted by the readable content",
+
+        "title_meta": "12",
+        "content_meta": "86"
+      }
+    ],
+    "sectionHeading_meta": "10"
+  }
+  

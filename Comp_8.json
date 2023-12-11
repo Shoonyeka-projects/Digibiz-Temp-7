@@ -1,0 +1,46 @@
+
+{
+    "menu": {
+      "home": "Home",
+      "about": "About",
+      "portfolio": "Portfolio",
+      "services": "Services",
+      "contact": "Contact Us",
+
+      "home_meta": "4",
+      "about_meta": "5",
+      "portfolio_meta": "9",
+      "services_meta": "8",
+      "contact_meta": "10"
+    },
+    "location": {
+      "heading": "Location",
+      "address": "104 loram ipsum",
+      "telephone": "( +01 1234567890 )",
+      "email": "demo@gmail.com",
+
+      "heading_meta": "8",
+      "address_meta": "15",
+      "telephone_meta": "18"
+      
+    },
+    "socialLinks": {
+      "heading": "Social Link",
+      "links": [
+        { "icon": "images/facebook-logo.png", "url": "https://facebook.com" },
+        { "icon": "images/twitter-logo.png", "url": "https://twitter.com" },
+        { "icon": "images/instagram.png", "url": "https://instagram.com" },
+        { "icon": "images/linkedin-sign.png", "url": "https://linkedin.com" }
+      ]
+    },
+    "newsletter": {
+      "heading": "Newsletter",
+      "placeholder": "Enter Your Email",
+      "buttonText": "Subscribe",
+
+      "heading_meta": "10",
+      "placeholder_meta": "16",
+      "buttonText_meta": "9"
+    }
+  }
+  

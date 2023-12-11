@@ -1,0 +1,20 @@
+
+{
+    "sectionHeading": "Our Portfolio",
+    "items": [
+      { "id": "b-1", "imageSrc": "images/p-1.png", "title": "Logo Design", "link": "/portfolio/logo" },
+      { "id": "b-2", "imageSrc": "images/p-2.png", "title": "Coding", "link": "/portfolio/coding" },
+      { "id": "b-3", "imageSrc": "images/p-3.png", "title": "Bike Design", "link": "/portfolio/bike" },
+      { "id": "b-4", "imageSrc": "images/p-4.png", "title": "Flower Design", "link": "/portfolio/flower" },
+      { "id": "b-5", "imageSrc": "images/p-5.png", "title": "Website Design", "link": "/portfolio/website" },
+      { "id": "b-6", "imageSrc": "images/p-6.jpg", "title": "More Design", "link": "/portfolio/more" },
+
+      {"title_meta_1":"11",
+      "title_meta_2":"6",
+      "title_meta_3":"11",
+      "title_meta_4":"13",
+      "title_meta_5":"14",
+      "title_meta_6":"11"}
+    ]
+  }
+  

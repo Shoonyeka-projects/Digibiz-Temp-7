@@ -1,0 +1,19 @@
+
+{
+    "formHeadings": {
+      "contact": "Contact Us",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone Number",
+      "message": "Message",
+      "sendButton": "SEND",
+
+      "contact_meta": "10",
+      "name_meta": "4",
+      "email_meta": "5",
+      "phone_meta": "12",
+      "message_meta": "7",
+      "sendButton_meta": "4"
+    }
+  }
+  

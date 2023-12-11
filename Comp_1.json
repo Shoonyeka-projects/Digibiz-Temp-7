@@ -1,0 +1,15 @@
+{
+    "carouselItems": [
+      {
+        "title": "Make Design",
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority",
+        "readMoreLink": "/readmore",
+        "imageSrc": "images/hero.png",
+
+        "title_meta": "11",
+        "description_meta": "80"
+      
+      }
+    ]
+  }
+  
